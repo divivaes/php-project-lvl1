@@ -1,0 +1,12 @@
+{
+    "name": "divivaes/php-project-lvl1",
+    "description": "PHP Helxet Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kanat Kunikeev",
+            "email": "divivaes@gmail.com"
+        }
+    ],
+    "require": {}
+}
