@@ -10,15 +10,15 @@ use function BrainGames\Games\GCDGame\gcd;
 
 function start($game)
 {
-	switch ($game) {
+    switch ($game) {
         case 'brain-even':
             checkEvenOrNot();
-        	break;
+            break;
         case 'brain-calc':
             calc();
-        	break;
+            break;
         case 'brain-gcd':
             gcd();
-        	break;
+            break;
     }
 }
