@@ -16,11 +16,14 @@
         "wp-cli/php-cli-tools": "^0.11.11"
     },
     "bin": [
-        "bin/brain-even"
+        "bin/brain-even",
+        "bin/bran-calc"
     ],
     "autoload": {
         "files": [
-            "src/EvenGame.php"
+            "src/GameEngine.php",
+            "src/games/EvenGame.php",
+            "src/games/CalcGame.php"
         ]
     },
     "require-dev": {
