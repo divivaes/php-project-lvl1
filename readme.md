@@ -7,7 +7,7 @@
 ### Globally
 
 ```bash
-$ composer global require divivaes/php-project-lvl1
+$ composer require divivaes/php-project-lvl1
 ```
 
 ```bash
