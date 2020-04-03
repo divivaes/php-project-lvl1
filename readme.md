@@ -7,7 +7,7 @@
 ### Globally
 
 ```bash
-$ composer require divivaes/php-project-lvl1
+$ composer global require divivaes/php-project-lvl1
 ```
 
 ```bash
@@ -23,3 +23,13 @@ $ php bin/brain-even
 ```bash
 $ php bin/brain-calc 
 ```
+
+### Asciinema with game examples
+
+#### Brain-even
+[![asciicast](https://asciinema.org/a/DZRoS09QjOKKiVmcqmjLGhmpw.png)]
+(https://asciinema.org/a/DZRoS09QjOKKiVmcqmjLGhmpw)
+
+#### Brain-calc
+[![asciicast](https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD.png)]
+(https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD)
