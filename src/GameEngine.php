@@ -9,9 +9,9 @@ use function BrainGames\Games\CalcGame\calc;
 
 function start($game)
 {
-	if ($game === "brain-even") {
-		checkEvenOrNot();
-	} elseif ($game === "brain-calc") {
-		calc();
-	}
+    if ($game === "brain-even") {
+        checkEvenOrNot();
+    } elseif ($game === "brain-calc") {
+        calc();
+    }
 }

@@ -63,9 +63,3 @@ function getResult($x, $y, $operator)
         break;
     }
 }
-
-
-
-
-
-
