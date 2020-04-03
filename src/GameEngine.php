@@ -6,12 +6,19 @@ use function cli\line;
 use function cli\prompt;
 use function BrainGames\Games\EvenGame\checkEvenOrNot;
 use function BrainGames\Games\CalcGame\calc;
+use function BrainGames\Games\GCDGame\gcd;
 
 function start($game)
 {
-    if ($game === "brain-even") {
-        checkEvenOrNot();
-    } elseif ($game === "brain-calc") {
-        calc();
+	switch ($game) {
+        case 'brain-even':
+            checkEvenOrNot();
+        	break;
+        case 'brain-calc':
+            calc();
+        	break;
+        case 'brain-gcd':
+            gcd();
+        	break;
     }
 }

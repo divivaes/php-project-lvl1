@@ -24,6 +24,10 @@ $ php bin/brain-even
 $ php bin/brain-calc 
 ```
 
+```bash
+$ php bin/brain-gcd
+```
+
 ### Asciinema with game examples
 
 #### Brain-even
@@ -33,3 +37,7 @@ $ php bin/brain-calc
 #### Brain-calc
 [![asciicast](https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD.png)]
 (https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD)
+
+#### Brain-gcd
+[![asciicast](https://asciinema.org/a/JZMhfoFKLVG11YlRi2jT2ZUhe.png)]
+(https://asciinema.org/a/JZMhfoFKLVG11YlRi2jT2ZUhe)
