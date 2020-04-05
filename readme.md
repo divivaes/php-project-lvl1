@@ -28,16 +28,28 @@ $ php bin/brain-calc
 $ php bin/brain-gcd
 ```
 
+```bash
+$ php bin/brain-progression
+```
+
 ### Asciinema with game examples
 
-#### Brain-even
+#### Brain Even
 [![asciicast](https://asciinema.org/a/DZRoS09QjOKKiVmcqmjLGhmpw.png)]
 (https://asciinema.org/a/DZRoS09QjOKKiVmcqmjLGhmpw)
 
-#### Brain-calc
+#### Brain Calculation
 [![asciicast](https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD.png)]
 (https://asciinema.org/a/j45IbphogtGEoCNoteEkqYlyD)
 
-#### Brain-gcd
+#### Brain GCD
 [![asciicast](https://asciinema.org/a/JZMhfoFKLVG11YlRi2jT2ZUhe.png)]
 (https://asciinema.org/a/JZMhfoFKLVG11YlRi2jT2ZUhe)
+
+#### Brain Progression
+[![asciicast](https://asciinema.org/a/lpWJd60F1htKg9rwktlRJJHOC.png)]
+(https://asciinema.org/a/lpWJd60F1htKg9rwktlRJJHOC)
+
+
+
+

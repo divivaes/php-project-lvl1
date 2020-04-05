@@ -7,6 +7,7 @@ use function cli\prompt;
 use function BrainGames\Games\EvenGame\checkEvenOrNot;
 use function BrainGames\Games\CalcGame\calc;
 use function BrainGames\Games\GCDGame\gcd;
+use function BrainGames\Games\ProgressionGame\missingNumber;
 
 function start($game)
 {
@@ -19,6 +20,9 @@ function start($game)
             break;
         case 'brain-gcd':
             gcd();
+            break;
+        case 'brain-progression':
+            missingNumber();
             break;
     }
 }
